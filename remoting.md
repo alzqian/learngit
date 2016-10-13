@@ -1,2 +1,2 @@
-* gan ga a
+* gan ga A
 * on dev
